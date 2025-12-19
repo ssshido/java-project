@@ -1,4 +1,4 @@
-package com.bodya.model;
+package com.savva.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
