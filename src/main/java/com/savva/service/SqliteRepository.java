@@ -1,6 +1,6 @@
-package com.bodya.service;
+package com.savva.service;
 
-import com.bodya.model.Billionaire;
+import com.savva.model.Billionaire;
 
 import java.sql.*;
 import java.util.LinkedHashMap;
