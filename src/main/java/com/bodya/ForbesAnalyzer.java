@@ -1,8 +1,8 @@
-package com.bodya;
+package com.savva;
 
-import com.bodya.service.CsvLoader;
-import com.bodya.service.SqliteRepository;
-import com.bodya.service.StatsVisualizer;
+import com.savva.service.CsvLoader;
+import com.savva.service.SqliteRepository;
+import com.savva.service.StatsVisualizer;
 
 import java.io.File;
 import java.nio.file.Paths;
