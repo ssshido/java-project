@@ -1,4 +1,4 @@
-# java-project-lb01
+# java-project
 Семестровый проект «Forbes»
 
 ## Вывод
